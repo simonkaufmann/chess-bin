@@ -3,7 +3,7 @@
 "productName": "Chess",
 "productVersion": "0.1",
 "dataUrl": "chess-build.data.unityweb",
-"wasmCodeUrl": "chess-build.wasm",
+"wasmCodeUrl": "chess-build.wasm.code.unityweb",
 "wasmFrameworkUrl": "chess-build.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
